@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookAccess/static/css/main.495fb805.css",
+    "main.js": "/BookAccess/static/js/main.89d9a42f.js",
+    "static/js/453.92aa4e6f.chunk.js": "/BookAccess/static/js/453.92aa4e6f.chunk.js",
+    "index.html": "/BookAccess/index.html",
+    "main.495fb805.css.map": "/BookAccess/static/css/main.495fb805.css.map",
+    "main.89d9a42f.js.map": "/BookAccess/static/js/main.89d9a42f.js.map",
+    "453.92aa4e6f.chunk.js.map": "/BookAccess/static/js/453.92aa4e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.495fb805.css",
+    "static/js/main.89d9a42f.js"
+  ]
+}
