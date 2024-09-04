@@ -1,0 +1,26 @@
+/* src/styles/App.css */
+.app {
+  text-align: center;
+
+}
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+.book-item {
+  margin: 20px;
+  width: 200px;
+  text-align: left;
+}
+
+.book-item img {
+  width: 100%;
+}
+
+.book-item h2, .book-item h3 {
+  margin: 10px 0;
+}
