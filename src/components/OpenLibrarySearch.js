@@ -7,7 +7,7 @@ const OpenLibrarySearch = () => {
   const [books, setBooks] = useState([]);
 
   const searchBooks = async (title) => {
-    const response = await fetch(`https://openlibrary.org/search.json?q=${title}`);
+    const response = await fetch(`https://openlibrary.org/search.json?tittle=${title}`);
     const data = await response.json();
 
     if (data.docs) {
